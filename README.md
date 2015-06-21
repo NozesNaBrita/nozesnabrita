@@ -48,11 +48,11 @@ Eu devo fazer no MockingBird pois parece ser o que tem menos restrições, grát
 - [x] Usaremos o [git flow](https://github.com/nvie/gitflow)
 - [ ] Migrar todas as tarefas do trello para o github.
 - [ ] Escolher um nome para o primeiro projeto de finanças pessoais
-- [ ] Detalhar o [Wireframe](https://moqups.com/#!/edit/nozesnabrita@gmail.com/ACmJwGka)
+- [ ] Detalhar o [Wireframe](https://moqups.com/nozesnabrita@gmail.com/ACmJwGka)
 
 ## Escopo do projeto de finanças pessoais:
 
-* [Wireframe](https://moqups.com/#!/edit/nozesnabrita@gmail.com/ACmJwGka)
+* [Wireframe](https://moqups.com/nozesnabrita@gmail.com/ACmJwGka)
 
 ## Trivia
 
