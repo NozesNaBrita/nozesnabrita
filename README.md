@@ -28,7 +28,7 @@ Como dissemos no facebook:
 
 #### Motivação ([@mauriciovieira](http://github.com/mauriciovieira)):
 
-Ontem decidimos que cada um dos 3 faria sua versão das telas e o fluxo. E o escopo ficou sendo o app de finanças pra dinks ou dinkies: http://www.dinksfinance.com/ (blog). Cada um pode escolher o seu próprio app de mockup. As sugestões até agora são
+Ontem decidimos que cada um dos 3 faria sua versão das telas e o fluxo ([Parallel & Iterative Design + Competitive Testing = High Usability](http://www.nngroup.com/articles/parallel-and-iterative-design/)). E o escopo ficou sendo o app de finanças pra dinks ou dinkies: http://www.dinksfinance.com/ (blog). Cada um pode escolher o seu próprio app de mockup. As sugestões até agora são
 
 * https://gomockingbird.com/home
 * https://moqups.com/
