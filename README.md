@@ -55,7 +55,7 @@ Eu devo fazer no MockingBird pois parece ser o que tem menos restrições, grát
 
 Discussão sobre os objetivos:
 * Nome: [Scrat](http://iceage.wikia.com/wiki/Scrat)
-* O objetivo final é promover controle de finanças pessoais com educação financeira. O software terá como base alguns ensinamentos de Pai Rico & Pai Pobre e ajudará as pessoas a se educarem financeiramente para a realizarem seus sonhos, incluindo a independência financeira.
+* O objetivo final é promover controle de finanças pessoais com educação financeira. O software terá como base alguns ensinamentos de Pai Rico & Pai Pobre e ajudará as pessoas a se educarem financeiramente para realizarem seus sonhos, incluindo a independência financeira.
 
 #### Decisões/Tarefas:
 
@@ -67,9 +67,12 @@ Para a primeira versão, as funcionalidades principais serão:
 
 Outras definições:
 
-3. Mobile first;
-4. O desenvolvimento começará pela interface, com o uso de algo como o https://apiary.io/;
-5. Integração contínua desde o começo.
+1. Mobile first;
+1. Integração contínua desde o começo;
+1. O desenvolvimento começará pela interface, com o uso de ferramenta de mocking de API, a exemplo de:
+  * https://apiary.io
+  * https://mockable.io
+  * https://getsandbox.com
 
 Tarefas para a próxima reunião:
 - [ ] @todos - Detalhar o [Wireframe](https://moqups.com/nozesnabrita@gmail.com/ACmJwGka)
