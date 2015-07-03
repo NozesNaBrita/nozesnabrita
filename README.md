@@ -47,10 +47,33 @@ Eu devo fazer no MockingBird pois parece ser o que tem menos restrições, grát
 - [x] Email, github e mockup criado
 - [x] Usaremos o [git flow](https://github.com/nvie/gitflow)
 - [ ] Migrar todas as tarefas do trello para o github.
-- [ ] Escolher um nome para o primeiro projeto de finanças pessoais
+- [x] Escolher um nome para o primeiro projeto de finanças pessoais
 - [ ] Detalhar o [Wireframe](https://moqups.com/nozesnabrita@gmail.com/ACmJwGka)
 
-## Escopo do projeto de finanças pessoais:
+
+###  02/07/2015 - 21h
+
+Discussão sobre os objetivos:
+* Nome: [Scrat](http://iceage.wikia.com/wiki/Scrat)
+* O objetivo final é promover educação financeira. Baseados nos ensinamentos de Pai Rico & Pai Pobre, o software ajudará as pessoas a se educarem financeiramente, objetivando a realização de seus sonhos, incluindo a independência financeira.
+
+#### Decisões/Tarefas:
+
+Para a primeira versão, as funcionalidades principais serão:
+1. Importação (OFX, CSV) manual
+2. Categorização automatica e manual.
+
+Outras definições:
+3. Mobile first.
+4. O desenvolvimento começará pela interface, com o uso de algo como o https://apiary.io/
+
+Tarefas para a próxima reunião:
+- [ ] @todos - Detalhar o [Wireframe](https://moqups.com/nozesnabrita@gmail.com/ACmJwGka)
+- [x] [@mauriciovieira](http://github.com/mauriciovieira) - criar o repositório [scrat](https://github.com/NozesNaBrita/scrat)
+
+Próxima reunião: 07/07/2015 - 20h30
+
+## Escopo do projeto [scrat](http://github.com/NozesNaBrita/scrat):
 
 * [Wireframe](https://moqups.com/nozesnabrita@gmail.com/ACmJwGka)
 
