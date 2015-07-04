@@ -2,3 +2,10 @@
 ==================
 
   * Documentação inicial da nossa trupe. *É nozes!*
+
+0.0.2 / 04/07/2015
+==================
+
+  * Relato da reunião de 02/07/2015
+
+
