@@ -54,6 +54,7 @@ Eu devo fazer no MockingBird pois parece ser o que tem menos restrições, grát
 ###  02/07/2015 - 21h
 
 Discussão sobre os objetivos:
+
 * Nome: [Scrat](http://iceage.wikia.com/wiki/Scrat)
 * O objetivo final é promover controle de finanças pessoais com educação financeira. O software terá como base alguns ensinamentos de Pai Rico & Pai Pobre e ajudará as pessoas a se educarem financeiramente para realizarem seus sonhos, incluindo a independência financeira.
 
@@ -75,10 +76,36 @@ Outras definições:
   * https://getsandbox.com
 
 Tarefas para a próxima reunião:
-- [ ] @todos - Detalhar o [Wireframe](https://moqups.com/nozesnabrita@gmail.com/ACmJwGka)
+- [x] @todos - Detalhar o [Wireframe](https://moqups.com/nozesnabrita@gmail.com/ACmJwGka)
 - [x] [@mauriciovieira](http://github.com/mauriciovieira) - criar o repositório [scrat](https://github.com/NozesNaBrita/scrat)
 
 Próxima reunião: 07/07/2015 - 20h30
+
+
+## 07/07/2015 - 21h
+
+* Cada um explicou as telas que elaborou;
+* Criamos uma versão única que representa as idéias mais legais de cada proposta;
+
+#### Decisões / Tarefas:
+
+* Primeira versão do aplicativo foi unificada [neste wireframe](https://moqups.com/thicolares/gee9Dgig) e terá:
+    * Login com Facebook;
+    * Upload de extrato bancário no formato [OFX](http://www.ofx.net/);
+    * Visualização de extratos bancários com categorizações automáticas;
+    * Menu com opções `Enviar OFX` e `Sair` (logout);
+    * E feedbacks para o usuário.
+
+Tarefas para a próxima reunião:
+
+- [ ] Mockar a API;
+- [ ] Definir estrura das categorias, que será fixa e de 2 níveis;
+- [ ] Estudar OFX e ver como decidiremos categorias e contas bancárias;
+- [ ] Organizar as demais atividades de desenvolvimento.
+
+
+Próxima reunião ainda não tem data. E [@colares](http://github.com/colares) entrará em recesso de 15 dias, mas os demais da equipe seguirão com as atividades.
+
 
 ## Escopo do projeto [scrat](http://github.com/NozesNaBrita/scrat):
 
